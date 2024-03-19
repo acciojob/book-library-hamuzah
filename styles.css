@@ -1,9 +1,8 @@
 /*  your css code here. If applicable */
 
 
-
 body {
-    background-color: #f8f8f8;
+    background-color:#f8f8f8;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -13,8 +12,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: #ffffff;
-    padding: 20px;
+    background-color:#ffffff;
+    padding: 0px;
   }
 
   .book {
@@ -44,9 +43,8 @@ body {
 
   .price-block {
     background-color: #2ecc71;
-	  width:70%
-    color: white;
-    padding: 5px 10px;
+	width:100%;
+    color:white; 
     border-radius: 5px;
     display: inline-block;
   }
