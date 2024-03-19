@@ -2,17 +2,18 @@
 body {
     background-color:#f8f8f8;
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+     margin:5px;
   }
 .book-library{
 	background-color: #ffffff;
 	text-align:center;
+	border-radius: 2px;
 }
 #btn{
 	background-color:#2ecc71;
-	width:100%;
+	width:99%;
 	color:white;
+	border-radius:2px;
 }
 .author{
 	color:#777777;
